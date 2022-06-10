@@ -12,8 +12,15 @@ ESTE ES L PRACTICA DE LOS JERCICIOS EN CLASE
 - trigonometria
 - geometria analitica
 - ecuacuiones diferenciales
+<<<<<<< HEAD
 
+=======
+- itegraciones dobles 
+- integraciones triples 
+>>>>>>> readme-mejorado
 
+Este es proyecto de programacion.
+El programa es muy bueno.
 
 
 ------------
