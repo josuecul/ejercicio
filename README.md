@@ -9,6 +9,10 @@ ESTE ES L PRACTICA DE LOS JERCICIOS EN CLASE
 - multiplicaciones
 - logaritmos
 - ecuaciones
+- trigonometria
+- geometria analitica
+- ecuacuiones diferenciales
+
 
 
 
