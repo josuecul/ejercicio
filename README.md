@@ -16,7 +16,7 @@ ESTE ES L PRACTICA DE LOS JERCICIOS EN CLASE
 - integraciones triples 
 
 Este es proyecto de programacion.
-
+El programa es muy bueno.
 
 
 ------------
