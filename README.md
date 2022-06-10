@@ -12,7 +12,10 @@ ESTE ES L PRACTICA DE LOS JERCICIOS EN CLASE
 - trigonometria
 - geometria analitica
 - ecuacuiones diferenciales
+- itegraciones dobles 
+- integraciones triples 
 
+Este es proyecto de programacion.
 
 
 
